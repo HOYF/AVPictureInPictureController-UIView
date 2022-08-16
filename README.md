@@ -14,9 +14,9 @@ https://user-images.githubusercontent.com/14821981/184836330-2d656f7a-7e20-414b-
 - 画中画窗口的形状控制；
 - 审核被拒的应对措施；
 - 市面上所有画中画的功能都可以实现，Swift 和 OC 的代码都有，视频素材也有，可以提供相关思路及技术支持，需要请联系邮箱heyifunobug@163.com，谢谢。
+ 
+简书地址：https://www.jianshu.com/p/300d3e2ed383
 
 如需要demo，可以直接在闲鱼上给笔者打赏点奶粉钱，谢谢！！
 ![画中画demo](https://user-images.githubusercontent.com/14821981/184839929-135791f8-70b6-474f-a1a1-b5bc6c37fec2.png)
 
-
-简书地址：https://www.jianshu.com/p/300d3e2ed383
