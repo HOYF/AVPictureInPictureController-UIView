@@ -2,7 +2,8 @@
 
 直接上效果：
 
-![效果图](https://upload-images.jianshu.io/upload_images/839475-ef3ce1b2844a88f2.gif?imageMogr2/auto-orient/strip)
+https://user-images.githubusercontent.com/14821981/184834057-7ac27c4a-4896-4bc2-bf8b-df0da631d85a.mp4
+
 
 
 ###基于 iOS AVPictureInPictureController，使用骚操作，完全自定义画中画，隐藏不需要的播放、快进快退按钮，具体可以参照悬浮提词器APP。
