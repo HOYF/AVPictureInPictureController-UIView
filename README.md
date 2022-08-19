@@ -17,6 +17,4 @@ https://user-images.githubusercontent.com/14821981/184836330-2d656f7a-7e20-414b-
  
 简书地址：https://www.jianshu.com/p/300d3e2ed383
 
-如需要demo，可以直接在闲鱼上给笔者打赏点奶粉钱，谢谢！！
-![画中画demo](https://user-images.githubusercontent.com/14821981/184839929-135791f8-70b6-474f-a1a1-b5bc6c37fec2.png)
 
